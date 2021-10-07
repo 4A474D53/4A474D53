@@ -1,6 +1,6 @@
 Soy ingeniero de software en formación.
 Pianista por diversión.
-Entusiasta de los compiladores y las máquinas virtuales.
+Entusiasta de los compiladores e intérpretes.
 
 <!---
 4A474D53/4A474D53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-Soy ingeniero de software en formación.
+Ingeniero de software en formación.
 Pianista por diversión.
 Entusiasta de los compiladores y el Ragtime.
 

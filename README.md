@@ -1,4 +1,4 @@
-Ingeniero de software en formación.
+Científico de computación en formación.
 Pianista por diversión.
 Entusiasta de los compiladores, las matemáticas y el Ragtime.
 
